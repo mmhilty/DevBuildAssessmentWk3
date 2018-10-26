@@ -1,0 +1,7 @@
+C:\Users\mhilty\source\repos\Assessment3-2-WelcomeTeam\Assessment3-2-WelcomeTeam\bin\Debug\Assessment3-2-WelcomeTeam.exe.config
+C:\Users\mhilty\source\repos\Assessment3-2-WelcomeTeam\Assessment3-2-WelcomeTeam\bin\Debug\Assessment3-2-WelcomeTeam.exe
+C:\Users\mhilty\source\repos\Assessment3-2-WelcomeTeam\Assessment3-2-WelcomeTeam\bin\Debug\Assessment3-2-WelcomeTeam.pdb
+C:\Users\mhilty\source\repos\Assessment3-2-WelcomeTeam\Assessment3-2-WelcomeTeam\obj\Debug\Assessment3-2-WelcomeTeam.csprojAssemblyReference.cache
+C:\Users\mhilty\source\repos\Assessment3-2-WelcomeTeam\Assessment3-2-WelcomeTeam\obj\Debug\Assessment3-2-WelcomeTeam.csproj.CoreCompileInputs.cache
+C:\Users\mhilty\source\repos\Assessment3-2-WelcomeTeam\Assessment3-2-WelcomeTeam\obj\Debug\Assessment3-2-WelcomeTeam.exe
+C:\Users\mhilty\source\repos\Assessment3-2-WelcomeTeam\Assessment3-2-WelcomeTeam\obj\Debug\Assessment3-2-WelcomeTeam.pdb

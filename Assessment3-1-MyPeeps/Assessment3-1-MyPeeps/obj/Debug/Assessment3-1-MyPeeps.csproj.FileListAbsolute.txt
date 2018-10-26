@@ -1,0 +1,7 @@
+C:\Users\mhilty\source\repos\Assessment3-1-MyPeeps\Assessment3-1-MyPeeps\bin\Debug\Assessment3-1-MyPeeps.exe.config
+C:\Users\mhilty\source\repos\Assessment3-1-MyPeeps\Assessment3-1-MyPeeps\bin\Debug\Assessment3-1-MyPeeps.exe
+C:\Users\mhilty\source\repos\Assessment3-1-MyPeeps\Assessment3-1-MyPeeps\bin\Debug\Assessment3-1-MyPeeps.pdb
+C:\Users\mhilty\source\repos\Assessment3-1-MyPeeps\Assessment3-1-MyPeeps\obj\Debug\Assessment3-1-MyPeeps.csprojAssemblyReference.cache
+C:\Users\mhilty\source\repos\Assessment3-1-MyPeeps\Assessment3-1-MyPeeps\obj\Debug\Assessment3-1-MyPeeps.csproj.CoreCompileInputs.cache
+C:\Users\mhilty\source\repos\Assessment3-1-MyPeeps\Assessment3-1-MyPeeps\obj\Debug\Assessment3-1-MyPeeps.exe
+C:\Users\mhilty\source\repos\Assessment3-1-MyPeeps\Assessment3-1-MyPeeps\obj\Debug\Assessment3-1-MyPeeps.pdb
