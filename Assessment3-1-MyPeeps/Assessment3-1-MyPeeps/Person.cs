@@ -51,10 +51,7 @@ namespace Assessment3_1_MyPeeps
             {
                 string inputemailORIG = StringGetter.Get("Enter the email:");
                 if (Regex.IsMatch(inputemailORIG, @"^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$"))
-                /// I FULLY ADMIT that I didn't come up with this specific regex pattern myself and used one from regexlib.com. 
-                /// Shoutout to Steven Smith. Everything else is fully homegrown, however. 
-                /// if not using homegrown regex patterns is verboten, please remove this validation section and replace it with
-                /// string inputemail = StringGetter.Get("Enter the email:");
+              
                 {
                     inputemail = inputemailORIG;
                     break;
